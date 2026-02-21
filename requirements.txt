@@ -5,3 +5,6 @@ autogen-ext[openai]
 dotenv
 openai
 tiktoken
+autogen-ext[http]
+autogen-ext[all]
+json_schema_to_pydantic
